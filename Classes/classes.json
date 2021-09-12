@@ -1,0 +1,38 @@
+{
+  "AbstractClass": {
+    "KeyPoints": [
+      "Special type of class which can't be instantiated",
+      "Purpose of an abstract class is to provide common implementation of a base to its derived classes",
+      "Act as a base or parent class for other classes (derived classes)",
+      "An abstract class can inherit from non-abstract class",
+      "A derived class can inherit only one abstract base class",
+      "Members can be abstract and non-abstract",
+      "Members declared as abstract must be implemented by derived classes",
+      "Can have constructor and can be accessed through derived classes",
+      "It cannot be a sealed class",
+      "It can be created without any abstract methods",
+      "An abstract method can't have static keyword",
+      "Override keyword is used to implement abstract methods in derived classes",
+      "It can contain constructors or destructors",
+      "Variable(field) of a class cannot be declared with abstract keyword",
+      "An abstract keyword can be declared to methods, properties, indexers and events",
+      "An abstract element cannot be private",
+      "An abstract element cannot be indicated by `virtual` keyword"
+    ]
+  },
+  "SealedClass": {
+    "KeyPoints": [
+      ""
+    ]
+  },
+  "StaticClass": {
+    "KeyPoints": [
+      ""
+    ]
+  },
+  "PartialClass": {
+    "KeyPoints": [
+      ""
+    ]
+  }
+}
